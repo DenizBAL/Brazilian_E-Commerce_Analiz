@@ -109,6 +109,3 @@ JOIN olist_order_items_dataset oi
 ON o.order_id = oi.order_id
 GROUP BY YEAR(o.order_purchase_timestamp), MONTH(o.order_purchase_timestamp)
 ORDER BY Yil, Ay;
--- 2017 yılında 1 yıl içinde ciro 9 kat büyüme göstermiştir. Reklam ve pazarlama stratejisi kazançlı çıkmıştır. Şirket 'Black friday' etkisine önem verip, yatırım yapmıştır. 
--- 2018 yılında olis şirketi sipariş sayısını 7000-8000 arasında tutmuştur. Şirket büyümek yerine elde olan müşterilere yatırımda bulunmuş gibi görünüyor.
--- 2018 9. ayında veri toplama sona erdiği görülmüştür.
