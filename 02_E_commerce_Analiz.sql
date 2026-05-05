@@ -1,3 +1,10 @@
+/*
+Proje: Netflix Veri Seti Analizi
+Yazar: Deniz BAL
+Açıklama: Brazilian E-Commerce: Operasyonel Performans & Lojistik Analizi
+Tarih: 2026-05-05
+*/
+
 ---- VERİ ANALİZİ (DATA ANALYSIS)
 
 --Multi Join denemesi
