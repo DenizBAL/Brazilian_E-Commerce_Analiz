@@ -33,9 +33,9 @@
 - Şirket Büyüme raporu
 - ![Sirket_büyüme_ciro](assets/Sirket_büyüme_ciro.png)
 
--- 2017 yılında 1 yıl içinde ciro 9 kat büyüme göstermiştir. Reklam ve pazarlama stratejisi kazançlı çıkmıştır. Şirket 'Black friday' etkisine önem verip, yatırım yapmıştır. 
--- 2018 yılında olis şirketi sipariş sayısını 7000-8000 arasında tutmuştur. Şirket büyümek yerine elde olan müşterilere yatırımda bulunmuş gibi görünüyor.
--- 2018 9. ayında veri toplama sona erdiği görülmüştür.
+- 2017 yılında 1 yıl içinde ciro 9 kat büyüme göstermiştir. Reklam ve pazarlama stratejisi kazançlı çıkmıştır. Şirket 'Black friday' etkisine önem verip, yatırım yapmıştır.
+- 2018 yılında olis şirketi sipariş sayısını 7000-8000 arasında tutmuştur. Şirket büyümek yerine elde olan müşterilere yatırımda bulunmuş gibi görünüyor.
+- 2018 9. ayında veri toplama sona erdiği görülmüştür.
 
 - ## 📬 İletişim
 - Bu proje ile ilgili sorularınız veya önerileriniz için benimle [LinkedIn profilim](https://www.linkedin.com/in/deniz-bal-64838b225) üzerinden iletişime geçebilirsiniz.
