@@ -1,10 +1,3 @@
-/*
-Proje: Netflix Veri Seti Analizi
-Yazar: Deniz BAL
-Açıklama: Brazilian E-Commerce: Operasyonel Performans & Lojistik Analizi
-Tarih: 2026-05-05
-*/
-
 ## 📌 Proje Hakkında
 Bu proje, Brezilya'nın en büyük pazar yeri olan Olist platformuna ait 2016-2018 yılları arasındaki gerçek verileri (100k sipariş) kapsamaktadır. Analizin temel amacı; 
 ham veriyi işleyerek şirket büyümesi, lojistik darboğazlar ve müşteri memnuniyeti arasındaki bağları SQL kullanarak ortaya çıkarmaktır. 
